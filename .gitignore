@@ -1,0 +1,19 @@
+# Simulation artifacts
+*.vvp
+*.vcd
+dump.vcd
+alu_sim.vvp
+
+# ModelSim / Questa / Vivado caches
+work/
+transcript
+vsim.wlf
+*.log
+*.jou
+.Xil/
+
+# OS and Editor Artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
